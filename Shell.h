@@ -4,8 +4,8 @@ Header file for Shell Project
 You can use this template for implementing your project
 
 feel free to do any modifications, you are not forced !
-should have a reasonable reason for changing some parts of it !
-(  )
+but you should have a reasonable reason for changing some parts of it !
+
 
 Also keep in your mind that Global Variables Are Bad !!
 	-> http://c2.com/cgi/wiki?GlobalVariablesAreBad 
