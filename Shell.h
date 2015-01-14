@@ -104,7 +104,7 @@ int addUser(struct session* session,const char* name,struct user* users);
 
 //Removes a user
 //Don't forget to check permissions !
-int rmUser(struct session* session,const char* name); // Users or root cannot delete itself !!
+int rmUser(struct session* session,const char* name); // user or root cannot delete itself !!
 
 //Changes current user password
 //Don't forget to check permissions !
