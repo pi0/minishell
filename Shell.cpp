@@ -30,7 +30,7 @@ int main() {
 			printf("%s$ ",s->user->username);
 			
 			char cmd[100];
-			scanf("%s",cmd);
+			gets(cmd);
 			if(strcmp(cmd,"exit")==0)break;
 			
 			int return_code = exec_command(s,cmd,first_user);
