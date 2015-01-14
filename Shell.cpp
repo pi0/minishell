@@ -202,7 +202,7 @@ int addUser(struct session* session,const char* name,struct user* users){
 
 //-----------------------------------------------------------------------------------
 
-int rmUser(struct session* session,const char* name){
+int rmUser(struct session* session,const char* name,struct user* users){
 	
 	
 	//TODO : implement me !
